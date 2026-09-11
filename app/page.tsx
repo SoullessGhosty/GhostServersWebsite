@@ -222,7 +222,7 @@ export default function Home() {
           <h2>Stop managing servers manually.</h2>
           <p>Create. Configure. Run. Share. Everything from one place.</p>
           <div className="hero-actions">
-            <a className="button button-white large" href="https://github.com/" target="_blank" rel="noreferrer"><Github size={18} /> View on GitHub</a>
+            <a className="button button-white large" href="https://github.com/SoullessGhosty/GhostServersWebsite" target="_blank" rel="noreferrer"><Github size={18} /> View on GitHub</a>
             <a className="button button-outline large" href="#features">See what&apos;s included</a>
           </div>
         </div>
