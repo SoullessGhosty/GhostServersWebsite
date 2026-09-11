@@ -61,7 +61,7 @@ export default function Home() {
           <a href="#software">Software</a>
         </div>
         <div className="nav-actions">
-          <a className="github" href="https://github.com/" target="_blank" rel="noreferrer"><Github size={17} /> GitHub</a>
+          <a className="github" href="https://github.com/SoullessGhosty/GhostServersWebsite" target="_blank" rel="noreferrer"><Github size={17} /> GitHub</a>
           <a className="button button-dark" href="#download">Download <ArrowRight size={16} /></a>
         </div>
       </nav>
